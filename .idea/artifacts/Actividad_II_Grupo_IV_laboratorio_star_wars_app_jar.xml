@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Actividad-II-Grupo-IV_laboratorio_star-wars-app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Actividad_II_Grupo_IV_laboratorio_star_wars_app_jar</output-path>
+    <root id="archive" name="Actividad-II-Grupo-IV_laboratorio_star-wars-app.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Actividad-II-Grupo-IV_laboratorio_star-wars-app" />
+    </root>
+  </artifact>
+</component>
