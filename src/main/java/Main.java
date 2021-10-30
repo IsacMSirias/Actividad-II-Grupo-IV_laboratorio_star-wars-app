@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 import ch.qos.logback.classic.Logger;
 import org.json.simple.JSONArray;
@@ -9,12 +8,14 @@ import GUI.Tabla;
 import java.io.FileWriter;
 import java.io.IOException;
 
-=======
->>>>>>> parent of 14a88be (DataTable)
 public class Main {
     private static final Logger logger = (Logger) LoggerFactory.getLogger(Main.class);
 
     public static void main(String[] args) {
+
+        Tabla gui = new Tabla();
+        gui.pack();
+        gui.setVisible(true);
 
         System.out.println("Hello world");
 
