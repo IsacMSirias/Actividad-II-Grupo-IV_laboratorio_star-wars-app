@@ -1,0 +1,27 @@
+[
+  {
+    "Nombre": "Luke SkywalkerLuke Skywalker",
+    "Estatura": "1,75 m",
+    "Fecha de nacimiento": " 25 de septiembre de 1951"
+  },
+  {
+    "Nombre": "Leia Organa",
+    "Estatura": "1.55 m",
+    "Fecha de nacimiento": "21 de October de 1956"
+  },
+  {
+    "Nombre": "Darth Vader",
+    "Estatura": "1.87 m",
+    "Fecha de nacimiento": "17 de enero de 1931"
+  },
+  {
+    "Nombre": "Chewbacca",
+    "Estatura": "2.18 m",
+    "Fecha de nacimiento": "1944"
+  },
+  {
+    "Nombre": "Han Solo ",
+    "Estatura": " 1.85 m",
+    "Fecha de nacimiento": "13 de julio de 1942"
+  }
+]
