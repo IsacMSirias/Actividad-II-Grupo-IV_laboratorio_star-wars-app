@@ -10,6 +10,7 @@ public class Tabla extends  JFrame{
 
     JFrame tabla = new JFrame();
     JTable tablaStarWars = new JTable();
+    public static Object datos;
 
 
     public Tabla() {
@@ -23,6 +24,7 @@ public class Tabla extends  JFrame{
                 {"Han Solo", "1.85 m", "13 de julio de 1942"}
 
         };
+        datos = datosfila;
 
         String[] IDColumnas = {"Nombre", "Altura", "Año de Nacimiento"};
 
